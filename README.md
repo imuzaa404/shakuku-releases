@@ -1,0 +1,1 @@
+# shakuku-releases
